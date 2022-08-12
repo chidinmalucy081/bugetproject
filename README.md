@@ -55,5 +55,4 @@ A COMPREHENSIVE DEBT SUMMARY
 ![wwww](https://user-images.githubusercontent.com/105529012/184380499-06e16643-022e-407d-b88c-8529877f0896.JPG)
 #RE-PAID>>>> money paid in that month
 %RE-PAID>>>> =#RE-PAID/PAYMENT REMAINING>>>>change to percentage
-PAYMENT REMAINING>>>>
-m
+PAYMENT REMAINING>>>> to pay up
