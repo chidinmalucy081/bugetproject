@@ -56,3 +56,4 @@ A COMPREHENSIVE DEBT SUMMARY
 #RE-PAID>>>> money paid in that month
 %RE-PAID>>>> =#RE-PAID/PAYMENT REMAINING>>>>change to percentage
 PAYMENT REMAINING>>>>
+m
