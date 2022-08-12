@@ -29,6 +29,13 @@ GAIN/LOSS>>>>> differece between =(CHECKING MONTH END + SAVING MONTH END)-(CHECK
 
  A COMPREHENSIVE INCOME TRACKER>>>>>> Its a track of income where is money is coming from.
 ![neuu](https://user-images.githubusercontent.com/105529012/184376066-3653bcf5-7ad1-4a1c-bfaf-906c13e3cf71.JPG)
+BENEFICIARY>>>> for which of the parent (zina/federick)
+SOURCE>>>>>what job it came from
+AMOUNT>>>> amount received( click on the TOTAL INCOME, =sum amount)
+DATE>>> date received
+TITHING>>> if  the tithe was paid.
+
+
 SPENDER>>>>who spent
 AMOUNT>>>>how much was spent
 DATE>>>>>day it was spent
