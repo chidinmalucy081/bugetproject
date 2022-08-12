@@ -35,8 +35,13 @@ AMOUNT>>>> amount received( click on the TOTAL INCOME, =sum amount)
 DATE>>> date received
 TITHING>>> if  the tithe was paid.
 
-
+A COMPREHENSIVE EXPENSE TRACKER>>>>>> Its a track of income of where you money is going
+![nn](https://user-images.githubusercontent.com/105529012/184377587-eff3af93-b731-4cda-9ada-62095166bc61.JPG)
 SPENDER>>>>who spent
 AMOUNT>>>>how much was spent
 DATE>>>>>day it was spent
 EXPLANATION>>>>>explantion of purpose it was spent
+
+ A COMPREHENSIVE DEBT TRACKER>>>>>> Its a track of your debt payment
+
+
