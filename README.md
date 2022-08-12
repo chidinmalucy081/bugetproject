@@ -50,3 +50,5 @@ LOAN TAKE>>>> interest rate
 2021-2025>>>> plan to pay loan in 4 years
 DATE>>> date paid
 PAYMENT>>> at least one payment a month for 12 month out of the year.
+
+A COMPREHENSIVE DEBT SUMMARY
