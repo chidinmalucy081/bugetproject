@@ -1,4 +1,5 @@
-# bugetproject
+
+bugetproject
 The project is about a Hypothethical family a two income source family (father & mother) with 3 children, that wants to plan their spending habits, so this is the list of their normal expenses for september.
 a budget is more than knowing how much money you have and you are spending, where your money is going so that you can control it ans save in future.
 
