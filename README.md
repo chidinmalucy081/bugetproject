@@ -43,5 +43,5 @@ DATE>>>>>day it was spent
 EXPLANATION>>>>>explantion of purpose it was spent
 
  A COMPREHENSIVE DEBT TRACKER>>>>>> Its a track of your debt payment
-
+![aaa](https://user-images.githubusercontent.com/105529012/184379533-0f470d57-53df-4d6c-b1bd-d54d4fb0e4fd.JPG)
 
