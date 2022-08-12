@@ -28,3 +28,4 @@ END MONTH>>>> ending of the month
 GAIN/LOSS>>>>> differece between =(CHECKING MONTH END + SAVING MONTH END)-(CHECKING MONTH START + SAVING MONTH START)
 
  A COMPREHENSIVE INCOME TRACKER>>>>>> Its a track of income where is money is coming from.
+![neuu](https://user-images.githubusercontent.com/105529012/184376066-3653bcf5-7ad1-4a1c-bfaf-906c13e3cf71.JPG)
