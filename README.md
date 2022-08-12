@@ -52,3 +52,4 @@ DATE>>> date paid
 PAYMENT>>> at least one payment a month for 12 month out of the year.
 
 A COMPREHENSIVE DEBT SUMMARY
+![wwww](https://user-images.githubusercontent.com/105529012/184380499-06e16643-022e-407d-b88c-8529877f0896.JPG)
